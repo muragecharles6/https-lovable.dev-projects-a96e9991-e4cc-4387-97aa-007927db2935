@@ -1,0 +1,4 @@
+// settings.gradle file for the Android project
+
+// Include all modules here
+include ':app'  // Main application module (replace with actual module names if any)
